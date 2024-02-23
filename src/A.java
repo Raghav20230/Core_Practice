@@ -8,6 +8,7 @@
         x[4]=54;
         x[5]=66;
         x[6]=99;
+        x[7]=88;
 //        x[2.5]=90;
 //        x[6]=7;
              System.out.println(x.length);
